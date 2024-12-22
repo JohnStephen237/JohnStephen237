@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JohnStephen237
 - 👀 I’m interested in Git, Linux, DevOps, Terraform, Kubernetes, and AWS Services.
-- 🌱 I’m currently learning Git, Linux, DevOps, Terraform, Kubernetes, and AWS Services 😂
+- 🌱 I’m currently learning Git, Linux, DevOps, Terraform, Kubernetes, and AWS Services.
 - 💞️ I’m looking to collaborate on projects making use of the aforementionned resources.
 - 📫 How to reach me ... njoh20an19@gmail.com
 - 😄 Pronouns: He/Him
